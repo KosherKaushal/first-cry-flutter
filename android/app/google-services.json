@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "577427683037",
+    "project_id": "first-cry-signing",
+    "storage_bucket": "first-cry-signing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577427683037:android:c42b220aaf336360e44d34",
+        "android_client_info": {
+          "package_name": "com.example.first_cry_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577427683037-v5kvuok03gsm6ameooes1aj60rtdlful.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFIBa5_zzUbuy4NMaXqHx5UEvAW5onYNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577427683037-sssqgg9muhr6629n2c1hq86rjvv1qcs6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
